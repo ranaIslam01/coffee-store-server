@@ -1,4 +1,4 @@
-# Coffee Store 2 — Server
+# Coffee Store — Server
 
 Overview
 
